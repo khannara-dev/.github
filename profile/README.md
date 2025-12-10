@@ -1,4 +1,4 @@
-# Khannara Dev
+# khannara.dev
 
 **Quality-first software development ecosystem**
 
