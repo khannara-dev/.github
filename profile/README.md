@@ -14,7 +14,7 @@ Building production-grade applications, open-source tools, and enterprise infras
 |---------|-------------|------|
 | [**next-rbac**](https://github.com/khannara-dev/next-rbac) | Enterprise-ready RBAC for Next.js 13+ App Router. Database agnostic, hierarchical roles, middleware protection. 96%+ test coverage. | TypeScript, Next.js |
 | [**sonarqube-docker-starter**](https://github.com/khannara-dev/sonarqube-docker-starter) | Ready-to-use local SonarQube setup with Docker Compose for unlimited code quality analysis. | Docker, SonarQube |
-| [**kaytee-e2e-tests**](https://github.com/khannara-dev/kaytee-e2e-tests) | Centralized Playwright E2E testing across multiple applications with Azure DevOps CI/CD. | Playwright, TypeScript |
+| **playwright-e2e-starter** *(coming soon)* | Production-ready Playwright E2E testing template with Azure DevOps CI/CD, Page Object Model, and multi-app support. | Playwright, TypeScript |
 
 ### Live Applications
 
